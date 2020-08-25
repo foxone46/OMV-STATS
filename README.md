@@ -9,4 +9,5 @@ This one will print STATISTICS.
   > Free Space
   > Containers running
   > Network used
-[url=https://zupimages.net/viewer.php?id=20/35/q7nd.png][img]https://zupimages.net/up/20/35/q7nd.png[/img][/url]
+  
+<a href="https://zupimages.net/viewer.php?id=20/35/q7nd.png"><img src="https://zupimages.net/up/20/35/q7nd.png" alt="" /></a>
