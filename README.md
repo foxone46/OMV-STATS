@@ -10,4 +10,4 @@ This one will print STATISTICS.
   > Containers running
   > Network used
   
-<a href="https://zupimages.net/viewer.php?id=20/35/q7nd.png"><img src="https://zupimages.net/up/20/35/q7nd.png" alt="" /></a>
+
