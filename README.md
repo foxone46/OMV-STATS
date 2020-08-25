@@ -1,4 +1,4 @@
-<a href="https://zupimages.net/viewer.php?id=20/35/30g1.png"><img src="https://zupimages.net/up/20/35/30g1.png" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=20/35/gdzq.png"><img src="https://zupimages.net/up/20/35/gdzq.png" alt="" /></a>
 
 # OMV-STATS
 
